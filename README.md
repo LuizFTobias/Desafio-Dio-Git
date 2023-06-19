@@ -1,6 +1,6 @@
-# README
+# Working with transitions and hover in CSS 
 
-Este desafio é um teste para me familiarizar com as mecânicas do Git e do Github.
+This is my first practical project.
+Saved it, so i can change when i want to. 
 
-Técnicas aprendas com o curso da **Dio**.
 
